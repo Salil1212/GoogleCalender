@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "filename" : "icons8-hamburger-menu.pdf",
+      "idiom" : "universal"
+    },
+    {
+      "idiom" : "universal",
+      "width-class" : "compact"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

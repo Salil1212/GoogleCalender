@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3357D552-0E5D-4983-88D3-C0027213FC3B"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "92D16B6B-7E31-4213-B16A-157721FE3241"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GoogleCalender/ViewControllerTesting.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "fetchEmployee()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "92D16B6B-7E31-4213-B16A-157721FE3241 - ab22c438c1588828"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GoogleCalender.ViewControllerTesting.fetchEmployee() -&gt; ()"
+                  moduleName = "GoogleCalender"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nickelfox/Desktop/GoogleCalender/GoogleCalender/ViewControllerTesting.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "92D16B6B-7E31-4213-B16A-157721FE3241 - fba5652eb9f92d49"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (GoogleCalender.Employee) -&gt; () in GoogleCalender.ViewControllerTesting.fetchEmployee() -&gt; ()"
+                  moduleName = "GoogleCalender"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nickelfox/Desktop/GoogleCalender/GoogleCalender/ViewControllerTesting.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
